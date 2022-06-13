@@ -1,6 +1,6 @@
-{
+[
   "user1": {
     "login": "user1",
     "password": "user12345",
   },
-}
+]
